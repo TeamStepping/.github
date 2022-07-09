@@ -1,5 +1,2 @@
-## Stepping.NET
-Help managing your works, step by step by Stepping.NET.<br>
-Help releasing your mind, inch by inch by Stepping.NET.<br>
-![logo](https://user-images.githubusercontent.com/3476921/178117294-e463dee3-331d-40cc-a348-1814a6b974e1.png)
-![slogan-zh](https://user-images.githubusercontent.com/3476921/178117315-6b025ec0-039c-48c7-ba81-f3a8f0237b3b.png)
+![slogan-zh](https://user-images.githubusercontent.com/30018771/178120276-72da588a-6e97-4807-9a45-fcbad9796f12.png)
+"A single step cannot cover a thousand miles." Xun Kuang (c. 310 – c. after 238 BCE)
